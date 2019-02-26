@@ -29,7 +29,7 @@ The next step is to create a _Google Sheet_ spreadsheet to display the table of 
 ```json
 {
   "spreadsheet": "<SPREADSHEET NAME>",
-  "worksheet": "<WORKSHEET NAME>", ...
+  "worksheet": "<WORKSHEET NAME>",
 }
 ```
 To communicate with the spreadsheet, set up the _[Google Sheets API](https://developers.google.com/sheets/api)_ and _[Google Drive API](https://developers.google.com/drive/)_ with the following steps:
