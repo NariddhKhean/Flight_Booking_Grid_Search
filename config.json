@@ -1,0 +1,19 @@
+{
+  "spreadsheet": "<SPREADSHEET NAME>",
+  "worksheet": "<WORKSHEET NAME>",
+  "country": "AU",
+  "currency": "AUD",
+  "locale": "en-AU",
+  "originPlace": "SYD-sky",
+  "destinationPlace": "WLG-sky",
+  "adults": 1,
+  "cabinClass": "economy",
+  "dep-year": 2019,
+  "dep-month": 4,
+  "dep-day": 1,
+  "dep-count": 7,
+  "arr-year": 2019,
+  "arr-month": 5,
+  "arr-day": 1,
+  "arr-count": 7
+}
