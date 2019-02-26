@@ -29,8 +29,7 @@ The next step is to create a _Google Sheet_ spreadsheet to display the table of 
 ```json
 {
   "spreadsheet": "<SPREADSHEET NAME>",
-  "worksheet": "<WORKSHEET NAME>",
-  ...
+  "worksheet": "<WORKSHEET NAME>", ...
 }
 ```
 To communicate with the spreadsheet, set up the _[Google Sheets API](https://developers.google.com/sheets/api)_ and _[Google Drive API](https://developers.google.com/drive/)_ with the following steps:
@@ -48,12 +47,13 @@ To communicate with the spreadsheet, set up the _[Google Sheets API](https://dev
 6. Click 'Create Credentials'
 
 7. Select the following options for creating your credentials:
-    | Question | Selection |
-    | -------- | --------- |
-    | _Which API are you using?_ | Google Drive API |
-    | _Where will you be calling the API from?_ | Web server (e.g. node.js, Tomcat) |
-    | _What data will you be accessing?_ | Application data |
-    | _Are you planning to use this API with App Engine or Compute Engine?_ | No, I'm not using them |
+
+| Question | Selection |
+| -------- | --------- |
+| _Which API are you using?_ | Google Drive API |
+| _Where will you be calling the API from?_ | Web server (e.g. node.js, Tomcat) |
+| _What data will you be accessing?_ | Application data |
+| _Are you planning to use this API with App Engine or Compute Engine?_ | No, I'm not using them |
 
 8. Click 'What credentials do I need?'
 
